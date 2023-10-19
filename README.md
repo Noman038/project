@@ -23,7 +23,7 @@
   To run the program, you need to compile the source code using a C compiler. Here are the steps:
    1. Ensure you have a C compiler installed(e.g. GCC).
    2. Clone the repository.
-   3. Compile the IOBMS.c file.
+   3. Compile the iobms.c file.
    4. Run the compiled program.
 # Usage
    - When you run the program, you'll be presented with a menu that allows you to choose between administration, creating a new account, or logging in as a user.
